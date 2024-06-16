@@ -1,0 +1,16 @@
+{
+  "name": "fix-activity-type",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "fix-activity-type.js",
+  "scripts": {
+    "start": "node fix-activity-type.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobiáš Potoček",
+  "license": "ISC",
+  "dependencies": {
+    "@apify/log": "^2.5.1"
+  }
+}
